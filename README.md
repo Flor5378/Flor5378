@@ -56,4 +56,5 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
   </a>
 </p>
+[![An image of @flor5378's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/flor5378)](https://holopin.io/@flor5378)
 
