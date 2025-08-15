@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Florian</h2>
-<h3 align="center">21-year-old French student in a dual degree at Sciences Po Saint-Germain-en-Laye and CY TECH Engineering School. This GitHub also serves as my portfolio, showcasing academic work and personal projects.</h3>
+<h3 align="center">21-year-old French student in a dual degree at Sciences Po Saint-Germain-en-Laye and CY TECH Engineering School. This GitHub also serves me as my portfolio, showcasing academic work and personal projects.</h3>
 
 - 🔭 Currently working on **Data Science & AI applied to Geopolitics and Military Analysis**
 
