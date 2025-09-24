@@ -9,7 +9,7 @@
 
 - 📄 Learn more about my experience: [https://Flor5378.github.io/](https://Flor5378.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <!-- Add your social media links here -->
 </p>
