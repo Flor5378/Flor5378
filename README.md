@@ -7,8 +7,6 @@
 
 - 📫 Reach me at **f.grolleau@netc.fr**
 
-- 📄 Learn more about my experience: [https://Flor5378.github.io/](https://Flor5378.github.io/)
-
 
 <p align="left">
 <!-- Add your social media links here -->
