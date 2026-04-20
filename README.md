@@ -9,7 +9,7 @@
 
 
 <p align="left">
-<!-- Add your social media links here -->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
