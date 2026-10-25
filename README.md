@@ -5,7 +5,7 @@
 - Currently working on **Data Science & AI applied to Geopolitics, Military Analysis, and Public Policies as well as Economics, Economic Intelligence**
 - Learning **Machine Learning, Deep Learning, and Geopolitical Studies, with a particular attention over geospatial data**
 - Reach me at **[f.grolleau@netc.fr](mailto:f.grolleau@netc.fr)**
-- Website : ** https://flor5378.github.io/ **
+- Website : **https://flor5378.github.io/**
 ---
 
 <h3 align="center">Languages and Tools</h3>
